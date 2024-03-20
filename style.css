@@ -583,19 +583,6 @@ html {
   margin-bottom: 2rem;
 }
 
-.card-info button {
-  width: 10rem;
-  height: 3rem;
-  background-color: #c29525;
-  border: none;
-  font-family: "Baloo Da 2", serif;
-  font-size: 1.4rem;
-  line-height: 1.5rem;
-  color: #eee;
-  border-radius: 0.3rem;
-  box-shadow: 0 0.1rem 0.8rem rgba(0, 0, 0, 0.4);
-}
-
 .contact {
   width: 100%;
   height: 100vh;
