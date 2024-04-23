@@ -12,7 +12,7 @@ html {
   scroll-behavior: smooth;
 }
 
-/*.spinner-container {
+.spinner-container {
   position: absolute;
   top: 0;
   left: 0;
@@ -39,9 +39,9 @@ html {
   visibility: hidden;
   -webkit-animation: displayCircles 2.5s;
   animation: displayCircles 2.5s;
-}*/
+}
 
-/*@keyframes displayCircles {
+@keyframes displayCircles {
   0% {
     opacity: 0;
     visibility: hidden;
@@ -58,9 +58,9 @@ html {
     opacity: 0;
     visibility: hidden;
   }
-}*/
+}
 
-/*.circles div {
+.circles div {
   animation: circles 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
   transform-origin: 4rem 4rem;
 }
@@ -145,7 +145,7 @@ html {
 .circles div:nth-child(8)::after {
   top: 5.6rem;
   left: 1.2rem;
-}*/
+}
 
 @keyframes circles {
   0% {
